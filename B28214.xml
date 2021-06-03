@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem occasioned by the death of Her Majesty. By a person of honour</title>
+            <author>Person of honour.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28214</idno><idno type="EEBO-CITATION">99829077</idno>
+  <idno type="VID">207714</idno>
+  <idno type="EEBO-PROQUEST">2240853702</idno>
+  
+            <idno type="STC">Wing P2679</idno>
+            <idno type="PROQUEST">99829077</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829077e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1937:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem occasioned by the death of Her Majesty. By a person of honour</title>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by J. Whitlock, near Stationers-hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With added caption title on p. 1: On Her Majesty's decease.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207714:1"/>
+            <pb facs="tcp:207714:1"/>
+            <pb facs="tcp:207714:2"/>
+            <pb facs="tcp:207714:2"/>
+            <p>A POEM Occasioned by the DEATH OF Her MAJESTY.</p>
+            <p>
+               <hi>By a Person of Honour.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>J. Whitlock,</hi> near <hi>Stationers-hall.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:207714:3"/>
+            <pb n="1" facs="tcp:207714:3"/>
+            <head>On Her Majesty's Decease.</head>
+            <lg>
+               <l>WHat can we here secure or lasting call,</l>
+               <l>When God's own Temples (as if <hi>Dagons</hi>) fall?</l>
+               <l>Why should fond Mothers idly moan the Loss</l>
+               <l>Of Hopes, or Heirs, seeing our Nation's Cross</l>
+               <l>Set, next to <hi>Golgotha</hi>'s? It frights the Earth,</l>
+               <l>Nay Fiends themselves, from any sort of Mirth.</l>
+            </lg>
+            <lg>
+               <l>This tells us what is dreadful; woe indeed;</l>
+               <l>What's the Privation, for our sins decreed:</l>
+               <l>And what is Grief, should make them justly mourn,</l>
+               <l>Who, Children like, are froward at each turn.</l>
+            </lg>
+            <lg>
+               <l>But could we on great <hi>William</hi>'s sorrows think,</l>
+               <l>Our private Passions would to Shadows shrink.</l>
+               <l>He fought like <hi>David,</hi> and like <hi>Noah</hi> stood</l>
+               <l>Secure, and saving others thro the Flood:</l>
+               <l>Now, tho his Ark be shook, He's poys'd for weights</l>
+               <l>Of sinking Worlds, much more of trembling States.</l>
+               <l>He that can wade through Ills so good a way</l>
+               <l>May guide his Stars, and shine more bright than they.</l>
+               <l>All Aspects favour such a Friend as He's;</l>
+               <l>For he's in one <hi>Atlas</hi> and <hi>Hercules.</hi>
+               </l>
+               <l>Thank Heav'n he's still the same, tho a sad stroke</l>
+               <l>Cut him in two, and sov'aign comforts broke:</l>
+               <l>(While <hi>Europe</hi> thro his side is wounded too,)</l>
+               <l>Oh! what vast mischief may this Winter do?</l>
+               <l>Let our Isles weep, and seek with all their Eyes</l>
+               <l>Full Seas of Tears, to thaw the <hi>Belgian</hi> Ice;</l>
+               <l>Lest any be surpriz'd by watchful foes,</l>
+               <l>While our dear Halcyon takes her last Repose.</l>
+               <l>The Phoenix thus in her first Nest expires,</l>
+               <l>And Heav'ns own Hand kindles her fun'ral Fires.</l>
+            </lg>
+            <lg>
+               <l>Ah! where's the Hand that held our Pillars Right?</l>
+               <l>Where is our Pilot in this dreadful Night?</l>
+               <l>Where's any Hope below, or Help on High?</l>
+               <l>Till God, or his Vicegerent say: 'Tis I.</l>
+               <pb n="2" facs="tcp:207714:4"/>
+               <l>The Universe in black looks up, and sighs,</l>
+               <l>As <hi>Egypt</hi> once, at <hi>Israels</hi> Obsequies;</l>
+               <l>Crying, whose Mourning's this: A Woe unknown</l>
+               <l>To Mankind, till <hi>Maria</hi> left the Throne,</l>
+               <l>Claiming Heav'ns fairest Kingdoms as her own.</l>
+            </lg>
+            <lg>
+               <l>Her Soul, her Merit wrought up her Esteem,</l>
+               <l>Fit for the Empire of the Seraphim:</l>
+               <l>Too high for Clouds, too clear for things of Clay;</l>
+               <l>She blest us with her <hi>Robes</hi> and went away;</l>
+               <l>Since <hi>half of her</hi> this Globe may fully sway.</l>
+               <l>Angels from Men thus suddenly depart,</l>
+               <l>And the quick farewel makes the Vision smart.</l>
+            </lg>
+            <lg>
+               <l>But wilt thou go, fair <hi>Eve,</hi> and leave thy Man</l>
+               <l>To rule alone, as <hi>Adam</hi> first began?</l>
+               <l>Oh! has he undergone vast Toyls for this,</l>
+               <l>And bid so soon adieu to Paradise?</l>
+               <l>'Tis hard; but God must be obey'd, he knows,</l>
+               <l>By him he rules, to him the Ruler bows,</l>
+               <l>And thus his Valour's right ascendant shows.</l>
+               <l>Oh let him stand this shock, as he before</l>
+               <l>Did ev'ry storm both on our Seas and Shore.</l>
+               <l>Who but a more than Man e're suffer'd more?</l>
+               <l>The patient <hi>Job</hi> with such a steddy Mind</l>
+               <l>Calm'd his Misfortunes, and his Faith refin'd.</l>
+               <l>He's pain'd, he's bleeding in his tend'rest part;</l>
+               <l>Yet hides the Sore, lest we should feel the Smart.</l>
+               <l>No Cannon Ball, no grim Salutes of Death,</l>
+               <l>No close Encounter on the <hi>Belgian</hi> Heath,</l>
+               <l>No Force, no Treachery, no <hi>French</hi> Arms, nor Art,</l>
+               <l>Wound like the Point now passing to his Heart:</l>
+               <l>Nor should the Hero such a Touchstone feel,</l>
+               <l>Were not his Virtue the best temper'd Steel.</l>
+               <l>God, that affords such Grace, delights to prove</l>
+               <l>His Work well done, that he may further love.</l>
+               <l>Bear up then, master all thy self, great Prince;</l>
+               <l>This Conquest will thy Foes and Friends convince;</l>
+               <l>How in thy Trials Fate has kinder Ends,</l>
+               <l>And God, who proves his Champion, him defends:</l>
+               <l>That Kings may give him place, and Realms make room</l>
+               <l>To kiss the Hand, that unbinds <hi>Christendom.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207714:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
